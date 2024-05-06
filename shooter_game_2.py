@@ -1,4 +1,4 @@
-#Создай собственный Шутер!
+#My first edit in GitHub
 
 from pygame import *
 from random import randint
